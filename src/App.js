@@ -9,7 +9,7 @@ const App = () => {
 
     useEffect(() => {
         fetchBooks();
-
+ // App updated
     }, [fetchBooks])
 
 
